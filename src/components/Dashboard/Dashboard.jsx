@@ -19,7 +19,7 @@ const Dashboard = ({data}) => {
           <XAxis dataKey="bookName" />
           <YAxis dataKey="ratings" />
         </LineChart>
-     
+        
         </div>
     );
 };
