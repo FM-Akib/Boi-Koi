@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 19.99,
+    "ratings": 4.5,
+    "type": "Fiction"
+  },
+  {
+    "id": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 15.99,
+    "ratings": 4.8,
+    "type": "Classics"
+  },
+  {
+    "id": 3,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 22.50,
+    "ratings": 4.2,
+    "type": "Fantasy"
+  },
+  {
+    "id": 4,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 18.95,
+    "ratings": 4.7,
+    "type": "Dystopian"
+  },
+  {
+    "id": 5,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 14.99,
+    "ratings": 4.0,
+    "type": "Classics"
+  },
+  {
+    "id": 6,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 24.99,
+    "ratings": 4.9,
+    "type": "Fantasy"
+  },
+  {
+    "id": 7,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 20.50,
+    "ratings": 4.1,
+    "type": "Mystery"
+  },
+  {
+    "id": 8,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 17.75,
+    "ratings": 4.6,
+    "type": "Romance"
+  },
+  {
+    "id": 9,
+    "bookName": "The Shining",
+    "author": "Stephen King",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 21.99,
+    "ratings": 4.4,
+    "type": "Horror"
+  },
+  {
+    "id": 10,
+    "bookName": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 16.50,
+    "ratings": 4.3,
+    "type": "Dystopian"
+  }
+]

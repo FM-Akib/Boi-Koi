@@ -1,4 +1,5 @@
 import './App.css'
+import Books from './components/Books/Books'
 import Header from './components/Header/Header'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Header></Header>
+      <Books></Books>
     </>
   )
 }
