@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Book from "../Book/Book";
+import Dashboard from "../Dashboard/Dashboard";
 
 const Books = () => {
     const [books,setBooks]=useState([])
@@ -12,6 +13,10 @@ const Books = () => {
     },[])
     
     return (
+        <>
+        <Dashboard key={books.id}
+        data={books}
+        ></Dashboard>
         <div className="grid md:grid-cols-3 mt-10 gap-4 justify-items-center items-center">
             {
                 books.map(book =><Book 
@@ -20,6 +25,7 @@ const Books = () => {
                 ></Book>)
             }
         </div>
+        </>
     );
 };
 
