@@ -12,7 +12,7 @@ const Books = () => {
     },[])
     
     return (
-        <div className="grid grid-cols-3 mt-10 gap-4 justify-items-center items-center">
+        <div className="grid md:grid-cols-3 mt-10 gap-4 justify-items-center items-center">
             {
                 books.map(book =><Book 
                 key={book.id}
